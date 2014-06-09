@@ -1,0 +1,45 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{8288D6D7-AA09-212E-2ECE-AEE59F15059C}") = "Mawang", "Assembly-CSharp.csproj", "{3E169804-71DC-D5A7-235C-71B9375E1355}"
+EndProject
+Project("{8288D6D7-AA09-212E-2ECE-AEE59F15059C}") = "Mawang", "Assembly-CSharp-Editor.csproj", "{A2DA652C-CAAE-68EC-0E29-EF7BD7C0D134}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3E169804-71DC-D5A7-235C-71B9375E1355}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3E169804-71DC-D5A7-235C-71B9375E1355}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3E169804-71DC-D5A7-235C-71B9375E1355}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3E169804-71DC-D5A7-235C-71B9375E1355}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A2DA652C-CAAE-68EC-0E29-EF7BD7C0D134}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A2DA652C-CAAE-68EC-0E29-EF7BD7C0D134}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A2DA652C-CAAE-68EC-0E29-EF7BD7C0D134}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A2DA652C-CAAE-68EC-0E29-EF7BD7C0D134}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+																															GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+		Policies = $0
+		$0.TextStylePolicy = $1
+		$1.inheritsSet = null
+		$1.scope = text/x-csharp
+		$0.CSharpFormattingPolicy = $2
+		$2.inheritsSet = Mono
+		$2.inheritsScope = text/x-csharp
+		$2.scope = text/x-csharp
+		$0.TextStylePolicy = $3
+		$3.FileWidth = 120
+		$3.TabWidth = 4
+		$3.EolMarker = Unix
+		$3.inheritsSet = Mono
+		$3.inheritsScope = text/plain
+		$3.scope = text/plain
+	EndGlobalSection
+
+EndGlobal
