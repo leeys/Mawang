@@ -173,10 +173,10 @@ public class MW_TileMgr : MonoBehaviour
         return v;
     }
 
-    public MW_Tile ReturnTile(int x, int y)
+    public MW_Tile.TileIndex ReturnTile(int x, int y)
     {
         //y,x거꿀로
-        return tiles[y, x];
+        return tiles[y, x].index;
     }
 }
     

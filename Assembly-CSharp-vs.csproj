@@ -49,8 +49,10 @@
      <Compile Include="Assets\1.Scripts\Manager\MW_CamMgr.cs" />
      <Compile Include="Assets\1.Scripts\Manager\MW_GameMgr.cs" />
      <Compile Include="Assets\1.Scripts\Manager\MW_TileMgr.cs" />
+     <Compile Include="Assets\1.Scripts\Manager\MW_WarriorCreate.cs" />
      <Compile Include="Assets\1.Scripts\Tile\MW_Tile.cs" />
      <Compile Include="Assets\1.Scripts\Utill\MW_Sprite2D.cs" />
+     <Compile Include="Assets\1.Scripts\WarriorAI\MW_WarriorMoveAI.cs" />
      <Compile Include="Assets\TK2DROOT\tk2d\Code\Camera\tk2dCamera.cs" />
      <Compile Include="Assets\TK2DROOT\tk2d\Code\Camera\tk2dCameraAnchor.cs" />
      <Compile Include="Assets\TK2DROOT\tk2d\Code\Camera\tk2dCameraUtil.cs" />

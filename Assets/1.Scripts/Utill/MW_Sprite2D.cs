@@ -1,7 +1,7 @@
 ﻿using UnityEngine;
 using System.Collections;
 
-public class MW_2DSprite : MonoBehaviour {
+public class MW_Sprite2D : MonoBehaviour {
 
 	// Use this for initialization
     // 이 스크립트는 2D 스프라이트를 좀더 쉽게 사용 할 수 있도록 도와주는 스크립트 입니다.
@@ -15,7 +15,7 @@ public class MW_2DSprite : MonoBehaviour {
     
 
 	void Start () {
-        Commit();
+        //Commit();
 	
 	}
 	
